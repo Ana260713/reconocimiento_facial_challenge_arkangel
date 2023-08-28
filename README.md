@@ -6,8 +6,7 @@ Este conjunto de instrucciones te guiará a través del proceso para ejecutar el
 
 1. Cargar la Data:
 
-- Asegúrate de tener el archivo CSV de la base de datos en tu computadora.
-- Abre el archivo de código en un editor de texto.
+- Asegúrate de tener el archivo CSV y la carpeta con las imagenes de la base de datos en tu computadora, lo puedes descargar [aquí](https://drive.google.com/drive/folders/13Y9hqLa7gd0LO-j0OjAjNxZPsoopqgpV?usp=sharing).
 
 2. Análisis de la Data:
 
