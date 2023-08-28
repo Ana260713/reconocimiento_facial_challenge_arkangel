@@ -1,0 +1,2 @@
+# reconocimiento_facial_challenge_arkangel
+Algoritmo de reconocimiento facial de emociones
